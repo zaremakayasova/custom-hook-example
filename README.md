@@ -1,3 +1,6 @@
+# Custom hook example
+A small application showing how to write a custom hook to help fetch data
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
